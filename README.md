@@ -1,2 +1,2 @@
 # AFH-ForPyram
-Listing 20 AFH-ForPyram/Stars.java Pag 40
+Listing 20 AFH-ForPyram/Stars.java Page 42
